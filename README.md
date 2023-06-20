@@ -16,9 +16,13 @@
 <h1 align="center">I'm oorzc</h1>
 
 <div align="center">
-<p>📝 来看看我的文章？ [oorzc.cn](https://oorzc.cn)</p>	
-<p>📫 想联系我吗？ **oorzc@qq.com</p>	
+ 📝 来看看我的文章？ <a href="https://oorzc.cn" target="_blank">oorzc.cn </a>
 </div>
+
+<div align="center">
+ 📫 想联系我吗？ oorzc@qq.com
+</div>
+
 
 <div align="center" style="margin-top:20px">
 <a href="#gh-light-mode-only">
