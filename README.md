@@ -15,7 +15,6 @@
 
 
 
-
 <h1 align="center">I'm oorzc</h1>
 <h3 align="center">A passionate frontend and backend developer from China</h3>
 <div align="center">
@@ -24,16 +23,19 @@
 </div>
 
 
-
 <a href="#gh-light-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc" width="35%" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true" width="60%"/>
 </a>
+
+<br>
 
 <a href="#gh-dark-mode-only">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&theme=algolia&hide_border=true" width="300" title="html">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&theme=algolia&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&theme=algolia&hide_border=true" width="35%" title="html">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&theme=algolia&hide_border=true" width="60%"/>
 </a>
+
+<br>
 
 <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorzc" alt="oorzc" /></a>
 <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorzc&theme=algolia&hide_border=true" alt="oorzc" /></a>
