@@ -16,27 +16,25 @@
 <h1 align="center">I'm oorzc</h1>
 
 <div align="center">
-
-- 📝 来看看我的文章？ [oorzc.cn](https://oorzc.cn)
-- 📫 想联系我吗？ **oorzc@qq.com**
-
+<p>📝 来看看我的文章？ [oorzc.cn](https://oorzc.cn)</p>	
+<p>📫 想联系我吗？ **oorzc@qq.com</p>	
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:20px">
 <a href="#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&layout=compact" width="30%" height="200" title="html">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true" width="60%" height="200"/>
 </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:20px">
 <a href="#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&theme=algolia&hide_border=true&layout=compact" width="30%" height="200" title="html">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&theme=algolia&hide_border=true" width="60%" height="200"/>
 </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:20px">
 <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorzc" alt="oorzc" /></a>
 <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorzc&theme=algolia&hide_border=true" alt="oorzc" /></a>
 </div>
