@@ -25,14 +25,14 @@
 <div align="center">
 <a href="#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&layout=compact" width="30%" height="200" title="html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true" width="60%" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&rank_icon=github" width="60%" height="200"/>
 </a>
 </div>
 
 <div align="center">
 <a href="#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oorzc&theme=algolia&hide_border=true&layout=compact" width="30%" height="200" title="html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&theme=algolia&hide_border=true" width="60%" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oorzc&show_icons=true&count_private=true&theme=algolia&hide_border=true&rank_icon=github" width="60%" height="200"/>
 </a>
 </div>
 
@@ -43,3 +43,5 @@
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
