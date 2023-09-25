@@ -3,6 +3,14 @@
 
 <h1 align="center">I'm oorzc</h1>
 
+<div align="center">
+ 📝 来看看我的文章？ <a href="https://oorzc.cn" target="_blank">oorzc.cn </a>
+</div>
+
+<div align="center">
+ 📫 想联系我吗？ oorzc@qq.com
+</div>
+
 <h2 align="center">技能清单</h2>
 
 <!-- Gif -->
