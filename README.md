@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- 📫 想联系我吗？ oorzc@qq.com
+ 📫 想联系我吗？ oorzcc@gmail.com
 </div>
 
 <h2 align="center">技能清单</h2>
