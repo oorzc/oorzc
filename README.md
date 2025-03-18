@@ -3,9 +3,9 @@
 
 <h1 align="center">I'm oorzc</h1>
 
-<div align="center">
+<!--<div align="center">
  📝 来看看我的文章？ <a href="https://oorzc.cn" target="_blank">oorzc.cn </a>
-</div>
+</div>-->
 
 <div align="center">
  📫 想联系我吗？ oorzcc@gmail.com
