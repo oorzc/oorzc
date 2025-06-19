@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/oorzc/count.svg" alt="android" width="300" height="40"/> visitor </h1>
-
-<h2 align="center">技能清单</h2>
-
 <!-- Gif -->
 <div align="center">
   <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
